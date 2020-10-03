@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c1a9688-5868-4ecb-85ba-c9c08f40fe05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/fair rotation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Data_Structure$implement_stack_using_list.coverage" NAME="implement stack using list Coverage Results" MODIFIED="1587605721641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure$array.coverage" NAME="array Coverage Results" MODIFIED="1586021277212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Manasa_and_stone.coverage" NAME="Manasa and stone Coverage Results" MODIFIED="1598452841326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$maximum_difference.coverage" NAME="maximum difference Coverage Results" MODIFIED="1600745210738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$Reverse_LinkList.coverage" NAME="Reverse LinkList Coverage Results" MODIFIED="1587257256537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$string_anagram.coverage" NAME="string anagram Coverage Results" MODIFIED="1596773126109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$String_Task.coverage" NAME="String Task Coverage Results" MODIFIED="1587123172719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
@@ -54,11 +56,12 @@
     <SUITE FILE_PATH="coverage/full_LinkList$hacker_rank.coverage" NAME="hacker rank Coverage Results" MODIFIED="1585360881470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$list_comprehention.coverage" NAME="list comprehention Coverage Results" MODIFIED="1590138413106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$string_anagram.coverage" NAME="string anagram Coverage Results" MODIFIED="1598282772390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$lisa_s_workbook.coverage" NAME="lisa's workbook Coverage Results" MODIFIED="1598452849402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$lisa_s_workbook.coverage" NAME="lisa's workbook Coverage Results" MODIFIED="1600312790535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$maximum_element.coverage" NAME="maximum element Coverage Results" MODIFIED="1587809638611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack/hackerrank1" />
     <SUITE FILE_PATH="coverage/Data_Structure$delete_the_binary_tree.coverage" NAME="delete the binary tree Coverage Results" MODIFIED="1586511608671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$test.coverage" NAME="test Coverage Results" MODIFIED="1588134041432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure$mixin.coverage" NAME="mixin Coverage Results" MODIFIED="1590632403700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$fair_rotation.coverage" NAME="fair rotation Coverage Results" MODIFIED="1600743246051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$dictionary_length.coverage" NAME="dictionary length Coverage Results" MODIFIED="1596551098970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="FileEditorManager">
@@ -81,13 +84,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hackerrank/lisa's workbook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackerrank/fair rotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -107,9 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/add.html" />
-        <option value="$PROJECT_DIR$/test/signup.html" />
-        <option value="$PROJECT_DIR$/test/signup.php" />
         <option value="$PROJECT_DIR$/test/login.php" />
         <option value="$PROJECT_DIR$/test/prod.php" />
         <option value="$PROJECT_DIR$/test/reg.html" />
@@ -158,14 +181,17 @@
         <option value="$PROJECT_DIR$/hackerrank/string anagram.py" />
         <option value="$PROJECT_DIR$/hackerrank/Manasa and stone.py" />
         <option value="$PROJECT_DIR$/hackerrank/lisa's workbook.py" />
+        <option value="$PROJECT_DIR$/hackerrank/fair rotation.py" />
+        <option value="$PROJECT_DIR$/hackerrank/maximum difference.py" />
+        <option value="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="687" />
-    <option name="y" value="18" />
-    <option name="width" value="672" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="657" />
+    <option name="y" value="1" />
+    <option name="width" value="702" />
+    <option name="height" value="752" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -217,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lisa's workbook">
+  <component name="RunManager" selected="Python.maximum difference">
     <configuration name="Manasa and stone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binary search tree insertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fair rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +279,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/binary search tree insertion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/fair rotation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,6 +310,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="maximum difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="full LinkList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/maximum difference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="string anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,35 +354,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="full LinkList" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maximum difference" />
+        <item itemvalue="Python.fair rotation" />
         <item itemvalue="Python.lisa's workbook" />
         <item itemvalue="Python.Manasa and stone" />
         <item itemvalue="Python.string anagram" />
-        <item itemvalue="Python.binary search tree insertion" />
-        <item itemvalue="Python.tree" />
       </list>
     </recent_temporary>
   </component>
@@ -399,23 +425,26 @@
       <workItem from="1596764828140" duration="4964000" />
       <workItem from="1596822253289" duration="1619000" />
       <workItem from="1598281765983" duration="1613000" />
-      <workItem from="1598452671742" duration="787000" />
+      <workItem from="1598452671742" duration="967000" />
+      <workItem from="1598607660370" duration="3000" />
+      <workItem from="1600263245964" duration="151000" />
+      <workItem from="1600312431808" duration="1300000" />
+      <workItem from="1600741847518" duration="3957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199547000" />
+    <option name="totallyTimeSpent" value="205138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="657" y="1" width="702" height="752" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3600605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37694705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32357723" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30605564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2003231" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30605564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,9 +489,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/login form.html" />
-    <entry file="file://$PROJECT_DIR$/test/login.php" />
-    <entry file="file://$PROJECT_DIR$/test/reg.html" />
     <entry file="file://$PROJECT_DIR$/test/signup.php" />
     <entry file="file://$PROJECT_DIR$/test/prod.php" />
     <entry file="file://$PROJECT_DIR$/test/add product.html" />
@@ -749,9 +775,26 @@
     <entry file="file://$PROJECT_DIR$/hackerrank/lisa's workbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/fair rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
