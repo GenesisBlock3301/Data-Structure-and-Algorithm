@@ -1,2 +1,6 @@
-n = int(input())
-print(2*(n-1))
+t = int(input())
+v = 4
+while v <=t:
+    v=v*2+2
+print(v-t)
+
