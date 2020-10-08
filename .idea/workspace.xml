@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c1a9688-5868-4ecb-85ba-c9c08f40fe05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/fair rotation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,47 +16,49 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Data_Structure$tree.coverage" NAME="tree Coverage Results" MODIFIED="1596769053709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Data_Structure$maximum_depth_of_tree.coverage" NAME="maximum depth of tree Coverage Results" MODIFIED="1585878925512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$bracket_problem.coverage" NAME="bracket problem Coverage Results" MODIFIED="1588138779300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
-    <SUITE FILE_PATH="coverage/Data_Structure$implement_stack_using_list.coverage" NAME="implement stack using list Coverage Results" MODIFIED="1587605721641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
-    <SUITE FILE_PATH="coverage/Data_Structure$array.coverage" NAME="array Coverage Results" MODIFIED="1586021277212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Manasa_and_stone.coverage" NAME="Manasa and stone Coverage Results" MODIFIED="1598452841326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$maximum_difference.coverage" NAME="maximum difference Coverage Results" MODIFIED="1600745210738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$Reverse_LinkList.coverage" NAME="Reverse LinkList Coverage Results" MODIFIED="1587257256537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$string_anagram.coverage" NAME="string anagram Coverage Results" MODIFIED="1596773126109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$String_Task.coverage" NAME="String Task Coverage Results" MODIFIED="1587123172719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/Data_Structure$size_of_tree.coverage" NAME="size of tree Coverage Results" MODIFIED="1586325960838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$getValue.coverage" NAME="getValue Coverage Results" MODIFIED="1595653610811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkList" />
-    <SUITE FILE_PATH="coverage/Data_Structure$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1596548447711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
     <SUITE FILE_PATH="coverage/full_LinkList$hackerrank2.coverage" NAME="hackerrank2 Coverage Results" MODIFIED="1585708973936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$bigSorting.coverage" NAME="bigSorting Coverage Results" MODIFIED="1590999554594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
-    <SUITE FILE_PATH="coverage/Data_Structure$Traverse_Binary_tree_Iterative_approach.coverage" NAME="Traverse Binary tree Iterative approach Coverage Results" MODIFIED="1586697674854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
-    <SUITE FILE_PATH="coverage/Data_Structure$Minimum_spening_tree.coverage" NAME="Minimum spening tree Coverage Results" MODIFIED="1590138765365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
-    <SUITE FILE_PATH="coverage/Data_Structure$Binary_Tree.coverage" NAME="Binary Tree Coverage Results" MODIFIED="1585847305341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$presents.coverage" NAME="presents Coverage Results" MODIFIED="1587605645619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/Data_Structure$Django_Templating.coverage" NAME="Django Templating Coverage Results" MODIFIED="1590997457295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure$list.coverage" NAME="list Coverage Results" MODIFIED="1595648880867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/full_LinkList$linkList_2.coverage" NAME="linkList 2 Coverage Results" MODIFIED="1585362775765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$Helpful_Maths.coverage" NAME="Helpful Maths Coverage Results" MODIFIED="1587123286583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
-    <SUITE FILE_PATH="coverage/Data_Structure$binary_search_tree_insertion.coverage" NAME="binary search tree insertion Coverage Results" MODIFIED="1596772818985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Reverse_Integer.coverage" NAME="Reverse Integer Coverage Results" MODIFIED="1602150404667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/LeetCode" />
     <SUITE FILE_PATH="coverage/Data_Structure$watermelon.coverage" NAME="watermelon Coverage Results" MODIFIED="1587094537700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/Data_Structure$Height_of_binary_tree.coverage" NAME="Height of binary tree Coverage Results" MODIFIED="1587431630293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$compare_two_list.coverage" NAME="compare two list Coverage Results" MODIFIED="1587273061775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/full_LinkList$link_List.coverage" NAME="link List Coverage Results" MODIFIED="1585360342248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Structure$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1596550950921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
+    <SUITE FILE_PATH="coverage/Data_Structure$implement_using_queue.coverage" NAME="implement using queue Coverage Results" MODIFIED="1587607430908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
+    <SUITE FILE_PATH="coverage/Data_Structure$merge_two_link_list.coverage" NAME="merge two link list Coverage Results" MODIFIED="1596548057253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$lisa_s_workbook.coverage" NAME="lisa's workbook Coverage Results" MODIFIED="1600312790535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure$maximum_element.coverage" NAME="maximum element Coverage Results" MODIFIED="1587809638611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack/hackerrank1" />
+    <SUITE FILE_PATH="coverage/Data_Structure$maximum_depth_of_tree.coverage" NAME="maximum depth of tree Coverage Results" MODIFIED="1585878925512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/Data_Structure$implement_stack_using_list.coverage" NAME="implement stack using list Coverage Results" MODIFIED="1587605721641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$sumNumber.coverage" NAME="sumNumber Coverage Results" MODIFIED="1602146718408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/LeetCode" />
+    <SUITE FILE_PATH="coverage/Data_Structure$array.coverage" NAME="array Coverage Results" MODIFIED="1586021277212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$maximum_difference.coverage" NAME="maximum difference Coverage Results" MODIFIED="1600745210738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1596548447711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
+    <SUITE FILE_PATH="coverage/Data_Structure$Traverse_Binary_tree_Iterative_approach.coverage" NAME="Traverse Binary tree Iterative approach Coverage Results" MODIFIED="1586697674854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/Data_Structure$Minimum_spening_tree.coverage" NAME="Minimum spening tree Coverage Results" MODIFIED="1590138765365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
+    <SUITE FILE_PATH="coverage/Data_Structure$Binary_Tree.coverage" NAME="Binary Tree Coverage Results" MODIFIED="1585847305341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/full_LinkList$linkList_2.coverage" NAME="linkList 2 Coverage Results" MODIFIED="1585362775765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Structure$binary_search_tree_insertion.coverage" NAME="binary search tree insertion Coverage Results" MODIFIED="1596772818985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$Binary_Tree_Use_recursive_way_traverse_.coverage" NAME="Binary Tree Use recursive way traverse  Coverage Results" MODIFIED="1596548142379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$merge_sort.coverage" NAME="merge sort Coverage Results" MODIFIED="1591418079809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
-    <SUITE FILE_PATH="coverage/full_LinkList$link_List.coverage" NAME="link List Coverage Results" MODIFIED="1585360342248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$a_way_too_long_words.coverage" NAME="a way too long words Coverage Results" MODIFIED="1587096306257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/Data_Structure$level_order_traversal.coverage" NAME="level order traversal Coverage Results" MODIFIED="1596767786560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/Data_Structure$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1596550950921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
     <SUITE FILE_PATH="coverage/Data_Structure$Breadth_First_Search_Shortest_Reach__hackerrank_.coverage" NAME="Breadth First Search Shortest Reach (hackerrank) Coverage Results" MODIFIED="1589364814111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
-    <SUITE FILE_PATH="coverage/Data_Structure$implement_using_queue.coverage" NAME="implement using queue Coverage Results" MODIFIED="1587607430908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure$Petya_and_Strings.coverage" NAME="Petya and Strings Coverage Results" MODIFIED="1587117962525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
-    <SUITE FILE_PATH="coverage/Data_Structure$merge_two_link_list.coverage" NAME="merge two link list Coverage Results" MODIFIED="1596548057253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/full_LinkList$hacker_rank.coverage" NAME="hacker rank Coverage Results" MODIFIED="1585360881470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$list_comprehention.coverage" NAME="list comprehention Coverage Results" MODIFIED="1590138413106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$string_anagram.coverage" NAME="string anagram Coverage Results" MODIFIED="1598282772390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$lisa_s_workbook.coverage" NAME="lisa's workbook Coverage Results" MODIFIED="1600312790535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/Data_Structure$maximum_element.coverage" NAME="maximum element Coverage Results" MODIFIED="1587809638611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack/hackerrank1" />
     <SUITE FILE_PATH="coverage/Data_Structure$delete_the_binary_tree.coverage" NAME="delete the binary tree Coverage Results" MODIFIED="1586511608671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$test.coverage" NAME="test Coverage Results" MODIFIED="1588134041432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure$mixin.coverage" NAME="mixin Coverage Results" MODIFIED="1590632403700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -102,18 +103,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -133,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/login.php" />
         <option value="$PROJECT_DIR$/test/prod.php" />
         <option value="$PROJECT_DIR$/test/reg.html" />
         <option value="$PROJECT_DIR$/test/add product.html" />
@@ -184,12 +179,13 @@
         <option value="$PROJECT_DIR$/hackerrank/fair rotation.py" />
         <option value="$PROJECT_DIR$/hackerrank/maximum difference.py" />
         <option value="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
+        <option value="$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="657" />
-    <option name="y" value="1" />
+    <option name="x" value="638" />
+    <option name="y" value="3" />
     <option name="width" value="702" />
     <option name="height" value="752" />
   </component>
@@ -198,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,10 +206,17 @@
               <item name="Data-Structure-and-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Data-Structure-and-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structure-and-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,8 +245,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maximum difference">
-    <configuration name="Manasa and stone" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Reverse Integer">
+    <configuration name="Reverse Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +254,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/Manasa and stone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sumNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,12 +342,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/string anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse Integer" />
+        <item itemvalue="Python.sumNumber" />
         <item itemvalue="Python.maximum difference" />
         <item itemvalue="Python.fair rotation" />
         <item itemvalue="Python.lisa's workbook" />
-        <item itemvalue="Python.Manasa and stone" />
-        <item itemvalue="Python.string anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -430,21 +432,24 @@
       <workItem from="1600263245964" duration="151000" />
       <workItem from="1600312431808" duration="1300000" />
       <workItem from="1600741847518" duration="3957000" />
+      <workItem from="1602132751322" duration="1805000" />
+      <workItem from="1602146417054" duration="2984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205138000" />
+    <option name="totallyTimeSpent" value="209927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="1" width="702" height="752" extended-state="0" />
+    <frame x="638" y="3" width="702" height="752" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37694705" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3894081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32357723" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2003231" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38772213" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30605564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +459,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3305648" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -462,12 +467,12 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19281046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3894081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32357723" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24418604" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28756058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30605564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,9 +480,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -489,7 +494,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/signup.php" />
     <entry file="file://$PROJECT_DIR$/test/prod.php" />
     <entry file="file://$PROJECT_DIR$/test/add product.html" />
     <entry file="file://$PROJECT_DIR$/test/test.py" />
@@ -789,12 +793,23 @@
     <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+          <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
