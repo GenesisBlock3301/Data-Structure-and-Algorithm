@@ -1,22 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" line="75" />
+    <bookmark url="file://$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" line="78" />
+    <bookmark url="file://$PROJECT_DIR$/hackerrank/cube divisor.py" line="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c1a9688-5868-4ecb-85ba-c9c08f40fe05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/full LinkList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/full LinkList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph Theory/(Prim's)Minimum spening tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/(Prim's)Minimum spening tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph Theory/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph Theory/Breadth First Search Shortest Reach (hackerrank).py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/Breadth First Search Shortest Reach (hackerrank).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph Theory/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/LeetCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Class Order Mixin.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Class Order Mixin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Reverse Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Reverse Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/python dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/python dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/sumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/sumNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Height of binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Height of binary tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Reverse LinkList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Reverse LinkList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Traverse Binary tree Iterative approach.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Traverse Binary tree Iterative approach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/compare two list.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/compare two list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/delete the binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/delete the binary tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/maximum depth of tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/maximum depth of tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/size of tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/size of tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/Helpful Maths.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/Helpful Maths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/Petya and Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/Petya and Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/String Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/String Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/a way too long words.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/a way too long words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/presents.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/presents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforce/watermelon.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/watermelon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/hackerrank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/hackerrank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Flatland Space Stations.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Flatland Space Stations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Manasa and stone.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Manasa and stone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Strange Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Strange Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Sub-array Division.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Sub-array Division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/The full counting sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/The full counting sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/binary search tree insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/binary search tree insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/fair rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/fair rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/happy ladyBug.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/happy ladyBug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/level order traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/level order traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/lisa's workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/lisa's workbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/maximum difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/maximum difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/merge two link list.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/merge two link list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/string anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/string anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/Perfect linkList 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/Perfect linkList 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/getValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/getValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/hacker rank1.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/hacker rank1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/link List.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/link List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/rec_rev_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/rec_rev_insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/bigSorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/bigSorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/merge sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/merge sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/bracket problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/bracket problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/hackerrank1/maximum element.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/hackerrank1/maximum element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/implement stack using Dequeue.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement stack using Dequeue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/implement stack using list.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement stack using list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/implement using queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement using queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Django Templating.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Django Templating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dictionary length.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dictionary length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/list comprehention.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/list comprehention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mixin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/mixin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tree.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$given_list.coverage" NAME="given_list Coverage Results" MODIFIED="1605108727931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/other" />
     <SUITE FILE_PATH="coverage/Data_Structure$tree.coverage" NAME="tree Coverage Results" MODIFIED="1596769053709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure$bracket_problem.coverage" NAME="bracket problem Coverage Results" MODIFIED="1588138779300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$MergeTwoLinklist.coverage" NAME="MergeTwoLinklist Coverage Results" MODIFIED="1603425327230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Manasa_and_stone.coverage" NAME="Manasa and stone Coverage Results" MODIFIED="1598452841326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$Reverse_LinkList.coverage" NAME="Reverse LinkList Coverage Results" MODIFIED="1587257256537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$string_anagram.coverage" NAME="string anagram Coverage Results" MODIFIED="1596773126109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
@@ -25,6 +98,7 @@
     <SUITE FILE_PATH="coverage/Data_Structure$getValue.coverage" NAME="getValue Coverage Results" MODIFIED="1595653610811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkList" />
     <SUITE FILE_PATH="coverage/full_LinkList$hackerrank2.coverage" NAME="hackerrank2 Coverage Results" MODIFIED="1585708973936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$bigSorting.coverage" NAME="bigSorting Coverage Results" MODIFIED="1590999554594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$parenthesis_match.coverage" NAME="parenthesis match Coverage Results" MODIFIED="1604903349658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$presents.coverage" NAME="presents Coverage Results" MODIFIED="1587605645619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/Data_Structure$Django_Templating.coverage" NAME="Django Templating Coverage Results" MODIFIED="1590997457295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure$list.coverage" NAME="list Coverage Results" MODIFIED="1595648880867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -35,10 +109,12 @@
     <SUITE FILE_PATH="coverage/Data_Structure$compare_two_list.coverage" NAME="compare two list Coverage Results" MODIFIED="1587273061775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/full_LinkList$link_List.coverage" NAME="link List Coverage Results" MODIFIED="1585360342248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1596550950921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$cube_divisor.coverage" NAME="cube divisor Coverage Results" MODIFIED="1605085622263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$implement_using_queue.coverage" NAME="implement using queue Coverage Results" MODIFIED="1587607430908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure$merge_two_link_list.coverage" NAME="merge two link list Coverage Results" MODIFIED="1596548057253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$lisa_s_workbook.coverage" NAME="lisa's workbook Coverage Results" MODIFIED="1600312790535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$maximum_element.coverage" NAME="maximum element Coverage Results" MODIFIED="1587809638611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack/hackerrank1" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Binary_Tree_Use_recursive_way_traverse_.coverage" NAME="Binary Tree Use recursive way traverse  Coverage Results" MODIFIED="1610628562481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$maximum_depth_of_tree.coverage" NAME="maximum depth of tree Coverage Results" MODIFIED="1585878925512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$implement_stack_using_list.coverage" NAME="implement stack using list Coverage Results" MODIFIED="1587605721641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$sumNumber.coverage" NAME="sumNumber Coverage Results" MODIFIED="1602146718408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/LeetCode" />
@@ -48,12 +124,15 @@
     <SUITE FILE_PATH="coverage/Data_Structure$Traverse_Binary_tree_Iterative_approach.coverage" NAME="Traverse Binary tree Iterative approach Coverage Results" MODIFIED="1586697674854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$Minimum_spening_tree.coverage" NAME="Minimum spening tree Coverage Results" MODIFIED="1590138765365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
     <SUITE FILE_PATH="coverage/Data_Structure$Binary_Tree.coverage" NAME="Binary Tree Coverage Results" MODIFIED="1585847305341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Valid_parenthesis.coverage" NAME="Valid parenthesis Coverage Results" MODIFIED="1605113220492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/full_LinkList$linkList_2.coverage" NAME="linkList 2 Coverage Results" MODIFIED="1585362775765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structure$binary_search_tree_insertion.coverage" NAME="binary search tree insertion Coverage Results" MODIFIED="1596772818985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$Binary_Tree_Use_recursive_way_traverse_.coverage" NAME="Binary Tree Use recursive way traverse  Coverage Results" MODIFIED="1596548142379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$merge_sort.coverage" NAME="merge sort Coverage Results" MODIFIED="1591418079809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
     <SUITE FILE_PATH="coverage/Data_Structure$a_way_too_long_words.coverage" NAME="a way too long words Coverage Results" MODIFIED="1587096306257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$delete_the_binary_tree.coverage" NAME="delete the binary tree Coverage Results" MODIFIED="1610630303526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Data_Structure$level_order_traversal.coverage" NAME="level order traversal Coverage Results" MODIFIED="1596767786560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Roman_to_integer.coverage" NAME="Roman to integer Coverage Results" MODIFIED="1602851170089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Data_Structure$Breadth_First_Search_Shortest_Reach__hackerrank_.coverage" NAME="Breadth First Search Shortest Reach (hackerrank) Coverage Results" MODIFIED="1589364814111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Theory" />
     <SUITE FILE_PATH="coverage/Data_Structure$Petya_and_Strings.coverage" NAME="Petya and Strings Coverage Results" MODIFIED="1587117962525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforce" />
     <SUITE FILE_PATH="coverage/full_LinkList$hacker_rank.coverage" NAME="hacker rank Coverage Results" MODIFIED="1585360881470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -64,55 +143,6 @@
     <SUITE FILE_PATH="coverage/Data_Structure$mixin.coverage" NAME="mixin Coverage Results" MODIFIED="1590632403700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$fair_rotation.coverage" NAME="fair rotation Coverage Results" MODIFIED="1600743246051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/Data_Structure$dictionary_length.coverage" NAME="dictionary length Coverage Results" MODIFIED="1596551098970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackerrank/string anagram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackerrank/Manasa and stone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackerrank/lisa's workbook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackerrank/fair rotation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,19 +159,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/prod.php" />
-        <option value="$PROJECT_DIR$/test/reg.html" />
-        <option value="$PROJECT_DIR$/test/add product.html" />
-        <option value="$PROJECT_DIR$/test/login form.html" />
-        <option value="$PROJECT_DIR$/Tree/Traverse Binary tree Iterative approach.py" />
-        <option value="$PROJECT_DIR$/test/test.py" />
-        <option value="$PROJECT_DIR$/codeforce/watermelon.py" />
-        <option value="$PROJECT_DIR$/codeforce/Petya and Strings.py" />
         <option value="$PROJECT_DIR$/codeforce/String Task.py" />
         <option value="$PROJECT_DIR$/codeforce/Helpful Maths.py" />
         <option value="$PROJECT_DIR$/Tree/Reverse LinkList.py" />
         <option value="$PROJECT_DIR$/Tree/compare two list.py" />
-        <option value="$PROJECT_DIR$/Tree/Height of binary tree.py" />
         <option value="$PROJECT_DIR$/codeforce/a way too long words.py" />
         <option value="$PROJECT_DIR$/codeforce/presents.py" />
         <option value="$PROJECT_DIR$/stack/implement stack.py" />
@@ -166,7 +187,6 @@
         <option value="$PROJECT_DIR$/hackerrank/merge link list.py" />
         <option value="$PROJECT_DIR$/linkList/link List.py" />
         <option value="$PROJECT_DIR$/hackerrank/merge two link list.py" />
-        <option value="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" />
         <option value="$PROJECT_DIR$/Graph Theory/DFS.py" />
         <option value="$PROJECT_DIR$/Graph Theory/BFS.py" />
         <option value="$PROJECT_DIR$/test/dictionary length.py" />
@@ -180,15 +200,26 @@
         <option value="$PROJECT_DIR$/hackerrank/maximum difference.py" />
         <option value="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
         <option value="$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py" />
+        <option value="$PROJECT_DIR$/LeetCode/Roman to integer.py" />
+        <option value="$PROJECT_DIR$/LeetCode/MergeTwoLinklist.py" />
+        <option value="$PROJECT_DIR$/hackerrank/parenthesis match.py" />
+        <option value="$PROJECT_DIR$/hackerrank/cube divisor.py" />
+        <option value="$PROJECT_DIR$/other/given_list.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Valid parenthesis.py" />
+        <option value="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" />
+        <option value="$PROJECT_DIR$/Tree/delete the binary tree.py" />
+        <option value="$PROJECT_DIR$/Tree/Height of binary tree.py" />
+        <option value="$PROJECT_DIR$/Tree/find anchestor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
-    <option name="y" value="3" />
-    <option name="width" value="702" />
-    <option name="height" value="752" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
+  <component name="ProjectId" id="1tjvrp3UyBrs9KQIbZvAl4Xjody" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -204,13 +235,7 @@
             <path>
               <item name="Data-Structure-and-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structure-and-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structure-and-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structure-and-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,6 +243,10 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -230,23 +259,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git Repository\Data-Structure-and-Algorithm\linkList" />
       <recent name="E:\Data Structure\linkList" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Reverse Integer">
-    <configuration name="Reverse Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MertTwoSortedList">
+    <configuration name="Binary Tree Use recursive way traverse " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,12 +272,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +286,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fair rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MertTwoSortedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="full LinkList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/MertTwoSortedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Valid parenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,7 +321,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/fair rotation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/Valid parenthesis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lisa's workbook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="delete the binary tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +338,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/lisa's workbook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/delete the binary tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximum difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sortLinkList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,34 +360,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linkList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/maximum difference.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sumNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="full LinkList" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkList/sortLinkList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,14 +376,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Reverse Integer" />
-        <item itemvalue="Python.sumNumber" />
-        <item itemvalue="Python.maximum difference" />
-        <item itemvalue="Python.fair rotation" />
-        <item itemvalue="Python.lisa's workbook" />
+        <item itemvalue="Python.MertTwoSortedList" />
+        <item itemvalue="Python.sortLinkList" />
+        <item itemvalue="Python.delete the binary tree" />
+        <item itemvalue="Python.Binary Tree Use recursive way traverse " />
+        <item itemvalue="Python.Valid parenthesis" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -434,22 +453,36 @@
       <workItem from="1600741847518" duration="3957000" />
       <workItem from="1602132751322" duration="1805000" />
       <workItem from="1602146417054" duration="2984000" />
+      <workItem from="1602850724968" duration="1373000" />
+      <workItem from="1603424327851" duration="1057000" />
+      <workItem from="1603451298170" duration="809000" />
+      <workItem from="1604895819876" duration="2184000" />
+      <workItem from="1604898229743" duration="8553000" />
+      <workItem from="1604925012199" duration="374000" />
+      <workItem from="1605082252299" duration="4252000" />
+      <workItem from="1605108310911" duration="596000" />
+      <workItem from="1605112686956" duration="1159000" />
+      <workItem from="1610625753149" duration="5433000" />
+      <workItem from="1610642851416" duration="595000" />
+      <workItem from="1623295516217" duration="6792000" />
+      <workItem from="1623308126701" duration="59000" />
+      <workItem from="1623336343545" duration="1480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209927000" />
+    <option name="totallyTimeSpent" value="236312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="638" y="3" width="702" height="752" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3894081" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32357723" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38772213" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3633388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30605564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,7 +492,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956383" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -491,68 +524,24 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerrank/Valid parenthesis.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$sortLinkList.coverage" NAME="sortLinkList Coverage Results" MODIFIED="1623305111564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkList" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$MertTwoSortedList.coverage" NAME="MertTwoSortedList Coverage Results" MODIFIED="1623337893355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/prod.php" />
-    <entry file="file://$PROJECT_DIR$/test/add product.html" />
-    <entry file="file://$PROJECT_DIR$/test/test.py" />
-    <entry file="file://$PROJECT_DIR$/codeforce/Helpful Maths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/Reverse LinkList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="33" column="17" selection-start-line="32" selection-start-column="4" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforce/String Task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/compare two list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforce/watermelon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforce/Petya and Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforce/a way too long words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforce/presents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack/implement stack using list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -604,32 +593,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/Height of binary tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/maximum depth of tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkList/Rev/insert.py" />
     <entry file="file://$PROJECT_DIR$/test/Django Templating.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkList/link List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -644,13 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkList/Perfect linkList 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -720,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackerrank/binary search tree insertion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -762,12 +716,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py" />
+    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py" />
     <entry file="file://$PROJECT_DIR$/hackerrank/string anagram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Roman to integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/MergeTwoLinklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkList/link List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hackerrank/Manasa and stone.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -790,24 +777,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackerrank/maximum difference.py">
+    <entry file="file://$PROJECT_DIR$/linkList/Perfect linkList 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="952">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/sumNumber.py">
+    <entry file="file://$PROJECT_DIR$/other/given_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/Valid parenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/maximum depth of tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/delete the binary tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/Height of binary tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/size of tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkList/compare two list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/cube divisor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank/parenthesis match.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackerrank/LeetCode/Reverse Integer.py">
+    <entry file="file://$PROJECT_DIR$/Tree/find anchestor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="461">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
         </state>
       </provider>
     </entry>
