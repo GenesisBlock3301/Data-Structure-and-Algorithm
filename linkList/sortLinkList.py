@@ -35,13 +35,16 @@ class LinkList:
         while tem.next is not None:
             print(tem.data)
             tem = tem.next
-        return ''
+        print(tem.data)
+        return
 
 
-print("Pass list item for creating link list:")
-link_list = LinkList()
-head = link_list.create_link(None)
-print("Show unique value")
-print(link_list.remove_duplicate(head))
-print("Show link list: ")
-print(link_list.show_link_list(head))
+
+if __name__ == "__main__":
+    print("Pass list item for creating link list:")
+    link_list = LinkList()
+    head = link_list.create_link(None)
+    print("Show unique value")
+    print(link_list.remove_duplicate(head))
+    print("Show link list: ")
+    print(link_list.show_link_list(head))

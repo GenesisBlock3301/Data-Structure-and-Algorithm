@@ -6,79 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c1a9688-5868-4ecb-85ba-c9c08f40fe05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/full LinkList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/full LinkList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkList/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Theory/(Prim's)Minimum spening tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/(Prim's)Minimum spening tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Theory/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Theory/Breadth First Search Shortest Reach (hackerrank).py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/Breadth First Search Shortest Reach (hackerrank).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph Theory/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Theory/DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/LeetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Class Order Mixin.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Class Order Mixin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Reverse Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Reverse Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/python dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/python dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/sumNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/sumNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Height of binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Height of binary tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Reverse LinkList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Reverse LinkList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Traverse Binary tree Iterative approach.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Traverse Binary tree Iterative approach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/compare two list.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/compare two list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/delete the binary tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/delete the binary tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/maximum depth of tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/maximum depth of tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/size of tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/size of tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/Helpful Maths.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/Helpful Maths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/Petya and Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/Petya and Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/String Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/String Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/a way too long words.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/a way too long words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/presents.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/presents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforce/watermelon.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforce/watermelon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/hackerrank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/hackerrank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Flatland Space Stations.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Flatland Space Stations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Manasa and stone.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Manasa and stone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Strange Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Strange Counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/Sub-array Division.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/Sub-array Division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/The full counting sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/The full counting sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/binary search tree insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/binary search tree insertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/fair rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/fair rotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/happy ladyBug.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/happy ladyBug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/level order traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/level order traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/lisa's workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/lisa's workbook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/maximum difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/maximum difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/merge two link list.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/merge two link list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/string anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/string anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/Perfect linkList 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/Perfect linkList 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/getValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/getValue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/hacker rank1.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/hacker rank1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/link List.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/link List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/rec_rev_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/rec_rev_insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/bigSorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/bigSorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/merge sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/merge sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/bracket problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/bracket problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/hackerrank1/maximum element.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/hackerrank1/maximum element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/implement stack using Dequeue.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement stack using Dequeue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/implement stack using list.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement stack using list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/implement using queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/implement using queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Django Templating.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Django Templating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dictionary length.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/dictionary length.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/list comprehention.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/list comprehention.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mixin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/mixin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/link List.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/linkList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkList/sortLinkList.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/sortLinkList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,8 +195,8 @@
       <recent name="E:\Data Structure\linkList" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MertTwoSortedList">
-    <configuration name="Binary Tree Use recursive way traverse " type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Happy number">
+    <configuration name="Happy number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Binary Tree Use recursive way traverse .py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Happy number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Valid parenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Duplicate from Array in place" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="full LinkList" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/Valid parenthesis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Remove Duplicate from Array in place.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Happy number" />
+        <item itemvalue="Python.Remove Duplicate from Array in place" />
         <item itemvalue="Python.MertTwoSortedList" />
         <item itemvalue="Python.sortLinkList" />
         <item itemvalue="Python.delete the binary tree" />
-        <item itemvalue="Python.Binary Tree Use recursive way traverse " />
-        <item itemvalue="Python.Valid parenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +399,9 @@
       <workItem from="1623295516217" duration="6792000" />
       <workItem from="1623308126701" duration="59000" />
       <workItem from="1623336343545" duration="1480000" />
+      <workItem from="1623383390160" duration="2050000" />
+      <workItem from="1623420195091" duration="379000" />
+      <workItem from="1623471805243" duration="3885000" />
     </task>
     <servers />
   </component>
@@ -538,8 +473,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Happy_number.coverage" NAME="Happy number Coverage Results" MODIFIED="1623475073313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$sortLinkList.coverage" NAME="sortLinkList Coverage Results" MODIFIED="1623305111564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkList" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$MertTwoSortedList.coverage" NAME="MertTwoSortedList Coverage Results" MODIFIED="1623337893355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$Remove_Duplicate_from_Array_in_place.coverage" NAME="Remove Duplicate from Array in place Coverage Results" MODIFIED="1623384729501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stack/implement stack using list.py">
